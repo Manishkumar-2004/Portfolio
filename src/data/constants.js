@@ -10,7 +10,7 @@ export const Bio = {
   github: "https://github.com/Manishkumar-2004",
   resume:
     "https://drive.google.com/file/d/1qYBgzU0BdgrZ3pXn-haNgX8T0iakakij/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+  linkedin: "https://www.linkedin.com/in/manish-kumar-43281929b",
 };
 
 export const skills = [
